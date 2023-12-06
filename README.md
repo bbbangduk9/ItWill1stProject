@@ -1,5 +1,5 @@
 # ItWill1stProject
-1차프로젝트 - 영화예매 프로그램 / Java, Oracle SQL 이용
+1차프로젝트 - Java를 이용한 영화예매 프로그램 
 
 ## 프로젝트 소개
 
